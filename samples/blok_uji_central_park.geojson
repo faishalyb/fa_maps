@@ -1,0 +1,1560 @@
+{
+ "type": "FeatureCollection",
+ "name": "blok_uji_central_park",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7831613,
+       -6.1721079
+      ],
+      [
+       106.7858716,
+       -6.1720988
+      ],
+      [
+       106.785864,
+       -6.1698384
+      ],
+      [
+       106.7831537,
+       -6.1698474
+      ],
+      [
+       106.7831613,
+       -6.1721079
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860523,
+       -6.1720982
+      ],
+      [
+       106.7887626,
+       -6.1720891
+      ],
+      [
+       106.788755,
+       -6.1698287
+      ],
+      [
+       106.7860447,
+       -6.1698378
+      ],
+      [
+       106.7860523,
+       -6.1720982
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889433,
+       -6.1720885
+      ],
+      [
+       106.7916536,
+       -6.1720794
+      ],
+      [
+       106.791646,
+       -6.1698189
+      ],
+      [
+       106.7889357,
+       -6.1698281
+      ],
+      [
+       106.7889433,
+       -6.1720885
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918343,
+       -6.1720788
+      ],
+      [
+       106.7945446,
+       -6.1720697
+      ],
+      [
+       106.7945369,
+       -6.1698092
+      ],
+      [
+       106.7918267,
+       -6.1698183
+      ],
+      [
+       106.7918343,
+       -6.1720788
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947252,
+       -6.172069
+      ],
+      [
+       106.7974355,
+       -6.1720599
+      ],
+      [
+       106.7974279,
+       -6.1697995
+      ],
+      [
+       106.7947176,
+       -6.1698086
+      ],
+      [
+       106.7947252,
+       -6.172069
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F1",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976162,
+       -6.1720593
+      ],
+      [
+       106.798339,
+       -6.1720568
+      ],
+      [
+       106.7983313,
+       -6.1697964
+      ],
+      [
+       106.7976086,
+       -6.1697988
+      ],
+      [
+       106.7976162,
+       -6.1720593
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7831694,
+       -6.1745492
+      ],
+      [
+       106.7858798,
+       -6.1745401
+      ],
+      [
+       106.7858722,
+       -6.1722797
+      ],
+      [
+       106.7831619,
+       -6.1722887
+      ],
+      [
+       106.7831694,
+       -6.1745492
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860604,
+       -6.1745395
+      ],
+      [
+       106.7887708,
+       -6.1745304
+      ],
+      [
+       106.7887632,
+       -6.17227
+      ],
+      [
+       106.7860529,
+       -6.1722791
+      ],
+      [
+       106.7860604,
+       -6.1745395
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889515,
+       -6.1745298
+      ],
+      [
+       106.7916618,
+       -6.1745207
+      ],
+      [
+       106.7916542,
+       -6.1722602
+      ],
+      [
+       106.7889439,
+       -6.1722693
+      ],
+      [
+       106.7889515,
+       -6.1745298
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918425,
+       -6.1745201
+      ],
+      [
+       106.7945528,
+       -6.1745109
+      ],
+      [
+       106.7945452,
+       -6.1722505
+      ],
+      [
+       106.7918349,
+       -6.1722596
+      ],
+      [
+       106.7918425,
+       -6.1745201
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947335,
+       -6.1745103
+      ],
+      [
+       106.7974438,
+       -6.1745012
+      ],
+      [
+       106.7974361,
+       -6.1722407
+      ],
+      [
+       106.7947258,
+       -6.1722499
+      ],
+      [
+       106.7947335,
+       -6.1745103
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F2",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976245,
+       -6.1745006
+      ],
+      [
+       106.7983472,
+       -6.1744981
+      ],
+      [
+       106.7983396,
+       -6.1722377
+      ],
+      [
+       106.7976168,
+       -6.1722401
+      ],
+      [
+       106.7976245,
+       -6.1745006
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7831776,
+       -6.1769905
+      ],
+      [
+       106.7858879,
+       -6.1769814
+      ],
+      [
+       106.7858804,
+       -6.174721
+      ],
+      [
+       106.78317,
+       -6.17473
+      ],
+      [
+       106.7831776,
+       -6.1769905
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860686,
+       -6.1769808
+      ],
+      [
+       106.788779,
+       -6.1769717
+      ],
+      [
+       106.7887714,
+       -6.1747112
+      ],
+      [
+       106.786061,
+       -6.1747204
+      ],
+      [
+       106.7860686,
+       -6.1769808
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889596,
+       -6.1769711
+      ],
+      [
+       106.79167,
+       -6.176962
+      ],
+      [
+       106.7916624,
+       -6.1747015
+      ],
+      [
+       106.7889521,
+       -6.1747106
+      ],
+      [
+       106.7889596,
+       -6.1769711
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918507,
+       -6.1769614
+      ],
+      [
+       106.794561,
+       -6.1769522
+      ],
+      [
+       106.7945534,
+       -6.1746918
+      ],
+      [
+       106.7918431,
+       -6.1747009
+      ],
+      [
+       106.7918507,
+       -6.1769614
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947417,
+       -6.1769516
+      ],
+      [
+       106.797452,
+       -6.1769425
+      ],
+      [
+       106.7974444,
+       -6.174682
+      ],
+      [
+       106.7947341,
+       -6.1746912
+      ],
+      [
+       106.7947417,
+       -6.1769516
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F3",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976327,
+       -6.1769419
+      ],
+      [
+       106.7983554,
+       -6.1769394
+      ],
+      [
+       106.7983478,
+       -6.174679
+      ],
+      [
+       106.7976251,
+       -6.1746814
+      ],
+      [
+       106.7976327,
+       -6.1769419
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7831858,
+       -6.1794318
+      ],
+      [
+       106.7858961,
+       -6.1794227
+      ],
+      [
+       106.7858885,
+       -6.1771623
+      ],
+      [
+       106.7831782,
+       -6.1771713
+      ],
+      [
+       106.7831858,
+       -6.1794318
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860768,
+       -6.1794221
+      ],
+      [
+       106.7887872,
+       -6.179413
+      ],
+      [
+       106.7887796,
+       -6.1771525
+      ],
+      [
+       106.7860692,
+       -6.1771616
+      ],
+      [
+       106.7860768,
+       -6.1794221
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889678,
+       -6.1794124
+      ],
+      [
+       106.7916782,
+       -6.1794033
+      ],
+      [
+       106.7916706,
+       -6.1771428
+      ],
+      [
+       106.7889603,
+       -6.1771519
+      ],
+      [
+       106.7889678,
+       -6.1794124
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918589,
+       -6.1794027
+      ],
+      [
+       106.7945692,
+       -6.1793935
+      ],
+      [
+       106.7945616,
+       -6.1771331
+      ],
+      [
+       106.7918513,
+       -6.1771422
+      ],
+      [
+       106.7918589,
+       -6.1794027
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947499,
+       -6.1793929
+      ],
+      [
+       106.7974602,
+       -6.1793837
+      ],
+      [
+       106.7974526,
+       -6.1771233
+      ],
+      [
+       106.7947423,
+       -6.1771325
+      ],
+      [
+       106.7947499,
+       -6.1793929
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F4",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976409,
+       -6.1793831
+      ],
+      [
+       106.7983637,
+       -6.1793807
+      ],
+      [
+       106.7983561,
+       -6.1771202
+      ],
+      [
+       106.7976333,
+       -6.1771227
+      ],
+      [
+       106.7976409,
+       -6.1793831
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7831939,
+       -6.1818731
+      ],
+      [
+       106.7859043,
+       -6.181864
+      ],
+      [
+       106.7858967,
+       -6.1796036
+      ],
+      [
+       106.7831864,
+       -6.1796126
+      ],
+      [
+       106.7831939,
+       -6.1818731
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.786085,
+       -6.1818634
+      ],
+      [
+       106.7887954,
+       -6.1818543
+      ],
+      [
+       106.7887878,
+       -6.1795938
+      ],
+      [
+       106.7860774,
+       -6.1796029
+      ],
+      [
+       106.786085,
+       -6.1818634
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889761,
+       -6.1818537
+      ],
+      [
+       106.7916864,
+       -6.1818445
+      ],
+      [
+       106.7916788,
+       -6.1795841
+      ],
+      [
+       106.7889685,
+       -6.1795932
+      ],
+      [
+       106.7889761,
+       -6.1818537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918671,
+       -6.1818439
+      ],
+      [
+       106.7945774,
+       -6.1818348
+      ],
+      [
+       106.7945698,
+       -6.1795743
+      ],
+      [
+       106.7918595,
+       -6.1795835
+      ],
+      [
+       106.7918671,
+       -6.1818439
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947581,
+       -6.1818342
+      ],
+      [
+       106.7974685,
+       -6.181825
+      ],
+      [
+       106.7974609,
+       -6.1795646
+      ],
+      [
+       106.7947505,
+       -6.1795737
+      ],
+      [
+       106.7947581,
+       -6.1818342
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F5",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976492,
+       -6.1818244
+      ],
+      [
+       106.7983719,
+       -6.181822
+      ],
+      [
+       106.7983643,
+       -6.1795615
+      ],
+      [
+       106.7976415,
+       -6.179564
+      ],
+      [
+       106.7976492,
+       -6.1818244
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7832021,
+       -6.1843144
+      ],
+      [
+       106.7859125,
+       -6.1843053
+      ],
+      [
+       106.7859049,
+       -6.1820448
+      ],
+      [
+       106.7831946,
+       -6.1820539
+      ],
+      [
+       106.7832021,
+       -6.1843144
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860932,
+       -6.1843047
+      ],
+      [
+       106.7888036,
+       -6.1842956
+      ],
+      [
+       106.788796,
+       -6.1820351
+      ],
+      [
+       106.7860856,
+       -6.1820442
+      ],
+      [
+       106.7860932,
+       -6.1843047
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889843,
+       -6.184295
+      ],
+      [
+       106.7916946,
+       -6.1842858
+      ],
+      [
+       106.791687,
+       -6.1820254
+      ],
+      [
+       106.7889767,
+       -6.1820345
+      ],
+      [
+       106.7889843,
+       -6.184295
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918753,
+       -6.1842852
+      ],
+      [
+       106.7945857,
+       -6.1842761
+      ],
+      [
+       106.7945781,
+       -6.1820156
+      ],
+      [
+       106.7918677,
+       -6.1820248
+      ],
+      [
+       106.7918753,
+       -6.1842852
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 7.5,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947664,
+       -6.1842755
+      ],
+      [
+       106.7974767,
+       -6.1842663
+      ],
+      [
+       106.7974691,
+       -6.1820059
+      ],
+      [
+       106.7947587,
+       -6.182015
+      ],
+      [
+       106.7947664,
+       -6.1842755
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F6",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 2.0,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976574,
+       -6.1842657
+      ],
+      [
+       106.7983802,
+       -6.1842632
+      ],
+      [
+       106.7983725,
+       -6.1820028
+      ],
+      [
+       106.7976498,
+       -6.1820052
+      ],
+      [
+       106.7976574,
+       -6.1842657
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-A7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 1.8,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7832046,
+       -6.1850378
+      ],
+      [
+       106.7859149,
+       -6.1850287
+      ],
+      [
+       106.7859131,
+       -6.1844861
+      ],
+      [
+       106.7832027,
+       -6.1844952
+      ],
+      [
+       106.7832046,
+       -6.1850378
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-B7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 1.8,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7860956,
+       -6.185028
+      ],
+      [
+       106.788806,
+       -6.1850189
+      ],
+      [
+       106.7888042,
+       -6.1844764
+      ],
+      [
+       106.7860938,
+       -6.1844855
+      ],
+      [
+       106.7860956,
+       -6.185028
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-C7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 1.8,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7889867,
+       -6.1850183
+      ],
+      [
+       106.7916971,
+       -6.1850092
+      ],
+      [
+       106.7916952,
+       -6.1844667
+      ],
+      [
+       106.7889849,
+       -6.1844758
+      ],
+      [
+       106.7889867,
+       -6.1850183
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-D7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 1.8,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7918778,
+       -6.1850086
+      ],
+      [
+       106.7945881,
+       -6.1849994
+      ],
+      [
+       106.7945863,
+       -6.1844569
+      ],
+      [
+       106.7918759,
+       -6.1844661
+      ],
+      [
+       106.7918778,
+       -6.1850086
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-E7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 1.8,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7947688,
+       -6.1849988
+      ],
+      [
+       106.7974792,
+       -6.1849896
+      ],
+      [
+       106.7974773,
+       -6.1844471
+      ],
+      [
+       106.794767,
+       -6.1844563
+      ],
+      [
+       106.7947688,
+       -6.1849988
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "blok": "UJI-F7",
+    "afdeling": "AFD-UJI",
+    "estate": "Estate Uji Central Park",
+    "luas_ha": 0.48,
+    "keterangan": "Blok fiktif untuk uji"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       106.7976599,
+       -6.184989
+      ],
+      [
+       106.7983826,
+       -6.1849866
+      ],
+      [
+       106.7983808,
+       -6.1844441
+      ],
+      [
+       106.797658,
+       -6.1844465
+      ],
+      [
+       106.7976599,
+       -6.184989
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

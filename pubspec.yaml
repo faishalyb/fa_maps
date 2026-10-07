@@ -1,0 +1,50 @@
+name: fa_maps
+description: >-
+  FA Maps -
+  Aplikasi peta offline untuk perkebunan (sejenis Avenza Maps): menampilkan
+  peta MBTiles dan GeoTIFF, posisi GPS, pencatatan temuan, rekam track,
+  ukur jarak/luas, ekspor, dan sinkronisasi saat online.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Peta
+  flutter_map: ^7.0.2          # mesin peta (BSD-3)
+  latlong2: ^0.9.1             # tipe koordinat (Apache-2.0)
+
+  # Database lokal & file
+  sqflite: ^2.3.3+1            # SQLite (BSD-2) - data lapangan & pembaca MBTiles
+  path: ^1.9.0
+  path_provider: ^2.1.4
+  file_selector: ^1.0.3        # pilih file GeoTIFF / MBTiles / GeoJSON dari HP (paket resmi Flutter)
+
+  # Lokasi
+  geolocator: ^13.0.1          # GPS + foreground service Android (MIT)
+  flutter_compass: ^0.8.0      # arah kompas (MIT)
+
+  # Raster & foto
+  image: ^4.2.0                # decode GeoTIFF, encode JPEG (MIT)
+  image_picker: ^1.1.2         # kamera untuk foto temuan (Apache-2.0)
+
+  # Lain-lain
+  shared_preferences: ^2.3.2   # pengaturan
+  share_plus: ^10.0.2          # bagikan hasil ekspor
+  http: ^1.2.2                 # sinkronisasi ke server
+  uuid: ^4.5.1                 # ID unik di perangkat
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/samples/

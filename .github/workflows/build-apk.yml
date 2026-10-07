@@ -1,0 +1,53 @@
+# Membuat file APK FA Maps secara otomatis di GitHub Actions (gratis).
+# Cara pakai: unggah proyek ini ke repositori GitHub, buka tab "Actions",
+# pilih "Build APK FA Maps" > "Run workflow". Setelah selesai (±10 menit),
+# unduh APK dari bagian "Artifacts" di halaman hasil build.
+name: Build APK FA Maps
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Siapkan folder platform Android
+        run: flutter create . --org com.perusahaan --project-name fa_maps --platforms android
+
+      - name: Ambil paket
+        run: flutter pub get
+
+      - name: Analisis kode
+        run: flutter analyze --no-fatal-infos --no-fatal-warnings
+
+      - name: Unit test
+        run: flutter test
+
+      - name: Build APK
+        # Satu APK untuk semua jenis HP Android (arm, arm64, x86_64).
+        # Ditandatangani kunci debug bawaan: cukup untuk uji coba, bukan untuk Play Store.
+        run: flutter build apk --release
+
+      - name: Ganti nama file
+        run: cp build/app/outputs/flutter-apk/app-release.apk FA-Maps-${{ github.run_number }}.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FA-Maps-apk
+          path: FA-Maps-*.apk
+          retention-days: 30
